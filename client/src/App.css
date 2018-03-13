@@ -26,3 +26,11 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+#MainPageCarousel {
+  height: 450px;
+}
+
+#MainPageCarousel .carousel-inner {
+  height: 100%;
+}
